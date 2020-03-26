@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mathematics
 
 You can use the [editor on GitHub](https://github.com/treetrails/numberland/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
